@@ -106,12 +106,13 @@ $.getJSON("./data.json", function(data){
 
 
 
-
+$(".informativo").hide()
     
 
 function closeModal(){ 
     $(".informativo").hide()
 }
+
 
 
 const fav = document.getElementsByClassName('favorito')
