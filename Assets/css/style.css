@@ -345,7 +345,7 @@ text-align: center;
 
     @media only screen and (max-device-width: 500px) {
         .titulo { 
-            visibility: hidden;
+            text-align: center;
         }
         .card{
             width: 400px;
