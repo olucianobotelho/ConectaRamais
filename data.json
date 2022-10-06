@@ -56,14 +56,6 @@
                 "posto":"Américas"
                 ,"email":"aline.alves@sicoobempresas.com.br"
                }
-               ,
-               {"nome":"",
-                "sobrenome":"",
-                "setor":"Comercial",
-                "ramal":"1645",
-                "posto":"Américas"
-                ,"email":"@sicoobempresas.com.br"
-               }
 
                ,
                {"nome":"Bianca",
@@ -239,14 +231,6 @@
                 "posto":"Nova Iguaçu",
                 "email":"daniele.lira@sicoobempresas.com.br"
                },
-               {"nome":"",
-                "sobrenome":"",
-                "setor":"",
-                "ramal":"1631",
-                "corporativo":"",
-                "posto":"Nova Iguaçu",
-                "email":"@sicoobempresas.com.br"
-               },
                {"nome":"Cesar",
                 "sobrenome":"Augusto",
                 "setor":"Comercial",
@@ -303,14 +287,6 @@
                 "posto":"Sede",
                 "email":"joao.oliveira@sicoobempresas.com.br"
                },
-               {"nome":"",
-                "sobrenome":"",
-                "setor":"",
-                "ramal":"1678",
-                "corporativo":"",
-                "posto":"Sede",
-                "email":"@sicoobempresas.com.br"
-               },
                {"nome":"Debora",
                 "sobrenome":"Sampaio",
                 "setor":"Comercial",
@@ -318,14 +294,6 @@
                 "corporativo":"99430-1604",
                 "posto":"Sede",
                 "email":"debora.sampaio@sicoobempresas.com.br"
-               },
-               {"nome":"",
-                "sobrenome":"",
-                "setor":"",
-                "ramal":"1685",
-                "corporativo":"99101-9948",
-                "posto":"Sede",
-                "email":"@sicoobempresas.com.br"
                },
                {"nome":"Luciane",
                 "sobrenome":"Souza",
@@ -519,8 +487,7 @@
                 "corporativo":"",
                 "posto":"Sede",
                 "email":"marcus.menezes@sicoobempresas.com.br"
-               }
-               ,
+               } ,
                {"nome":"Suzana",
                 "sobrenome":"Ribeiro",
                 "setor":"Secretária",
