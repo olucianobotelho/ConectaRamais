@@ -28,6 +28,13 @@
                 "posto":"São Paulo"
                 ,"email":"amanda.leite@sicoobempresas.com.br"
                },
+               {"nome":"André",
+                "sobrenome":"Costa",
+                "setor":"Marketing",
+                "ramal":"1608",
+                "posto":"Sede"
+                ,"email":"andre.costa@sicoobempresas.com.br"
+               },
                {"nome":"Ighor",
                 "sobrenome":"Agostinho",
                 "setor":"Cadastro",
@@ -35,12 +42,12 @@
                 "posto":"Sede"
                 ,"email":"ighor.agostinho@sicoobempresas.com.br"
                },
-               {"nome":"Luís",
+               {"nome":"Luiz",
                 "sobrenome":"Augusto",
                 "setor":"Cadastro",
                 "ramal":"1623",
                 "posto":"Sede"
-                ,"email":"luis.augusto@sicoobempresas.com.br"
+                ,"email":"luiz.augusto@sicoobempresas.com.br"
                },
                {"nome":"Íris",
                 "sobrenome":"Santos",
@@ -48,6 +55,13 @@
                 "ramal":"1654",
                 "posto":"Sede"
                 ,"email":"iris.paiva@sicoobempresas.com.br"
+               },
+               {"nome":"Esmelindo",
+                "sobrenome":"Carvalho",
+                "setor":"Comercial",
+                "ramal":"1662",
+                "posto":"Campo Grande"
+                ,"email":"esmelindo.carvalho@sicoobempresas.com.br"
                },
                {"nome":"Aline",
                 "sobrenome":"Alves",
@@ -64,15 +78,36 @@
                 "ramal":"1667",
                 "posto":"Américas"
                 ,"email":"bianca.fernandes@sicoobempresas.com.br"
-               }
-
-               ,
+               },
+               {"nome":"Bianca",
+                "sobrenome":"Amaro",
+                "setor":"Comercial",
+                "ramal":"1645",
+                "posto":"Américas"
+                ,"email":"bianca.amaro@sicoobempresas.com.br"
+               },
                {"nome":"Caixa",
-                "sobrenome":"",
+                "sobrenome":"Américas",
                 "setor":"Financeiro",
                 "ramal":"1666",
                 "posto":"Américas"
+                ,"email":""
                },
+               {"nome":"Carolina",
+                "sobrenome":"Souza",
+                "setor":"Comercial",
+                "ramal":"16",
+                "posto":"Centro"
+                ,"email":"carolina.souza@sicoobempresas.com.br"
+               },
+               {"nome":"Caixa",
+                "sobrenome":"D.Caxias",
+                "setor":"Financeiro",
+                "ramal":"1629",
+                "posto":"Duque de Caxias"
+                ,"email":""
+               }
+               ,
                {"nome":"Robson",
                 "sobrenome":"Souza",
                 "setor":"Comercial",
@@ -149,9 +184,16 @@
                {"nome":"Rafaela",
                 "sobrenome":"Canella",
                 "setor":"Comercial",
-                "ramal":"1662",
+                "ramal":"1660",
                 "posto":"Campo Grande"
                 ,"email":"rafaela.canella@sicoobempresas.com.br"
+               },
+               {"nome":"Mesa de Reunião",
+                "sobrenome":"",
+                "setor":"Reunião",
+                "ramal":"1677",
+                "posto":"Campo Grande"
+                ,"email":""
                },
                {"nome":"Lucas",
                 "sobrenome":"Silva",
@@ -161,7 +203,7 @@
                 ,"email":"lucas.silva@sicoobempresas.com.br"
                },
                {"nome":"Caixa",
-                "sobrenome":"",
+                "sobrenome":"Campo Grande",
                 "setor":"Financeiro",
                 "ramal":"1661",
                 "posto":"Campo Grande"
@@ -178,7 +220,7 @@
                {"nome":"Marcelo",
                 "sobrenome":"Castro",
                 "setor":"Financeiro",
-                "ramal":"",
+                "ramal":"----",
                 "corporativo":"2263-7203",
                 "posto":"Centro",
                 "email":"marcelo.castro@sicoobempresas.com.br"
@@ -264,6 +306,13 @@
                 "email":"marluci.ferreira@sicoobempresas.com.br"
                },
                {"nome":"Marcio",
+                "sobrenome":"Lima",
+                "setor":"Cadastro",
+                "ramal":"1678",
+                "posto":"Sede",
+                "email":"marcio.lima@sicoobempresas.com.br"
+               },
+               {"nome":"Marcio",
                 "sobrenome":"Lambranho",
                 "setor":"Administrativo",
                 "ramal":"1614",
@@ -303,7 +352,7 @@
                 "posto":"Sede",
                 "email":"luciane.Carvalho@sicoobempresas.com.br"
                },
-               {"nome":"luiz",
+               {"nome":"Luiz",
                 "sobrenome":"Silva",
                 "setor":"Comercial",
                 "ramal":"1653",
@@ -314,7 +363,7 @@
                {"nome":"Marcelo",
                 "sobrenome":"Garrido",
                 "setor":"Comercial",
-                "ramal":"1646",
+                "ramal":"1637",
                 "corporativo":"99406-0048",
                 "posto":"Sede",
                 "email":"marcelo.garrido@sicoobempresas.com.br"
@@ -438,8 +487,16 @@
                 "corporativo":"",
                 "posto":"Sede",
                 "email":"gilson.prata@sicoobempresas.com.br"
+               },
+               {"nome":"Vanessa",
+                "sobrenome":"Collye",
+                "setor":"Comercial",
+                "ramal":"1646",
+                "corporativo":"",
+                "posto":"Sede",
+                "email":"vanessa.collye@sicoobempresas.com.br"
                }
-               ,
+               ,             
                {"nome":"Ivan",
                 "sobrenome":"Olyntho",
                 "setor":"Financeiro",
@@ -485,7 +542,7 @@
                 "setor":"Planejamento",
                 "ramal":"1608",
                 "corporativo":"",
-                "posto":"Sede",
+                "posto":"São Paulo",
                 "email":"marcus.menezes@sicoobempresas.com.br"
                } ,
                {"nome":"Suzana",
