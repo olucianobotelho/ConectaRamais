@@ -54,7 +54,7 @@
                 "setor":"Cadastro",
                 "ramal":"1654",
                 "posto":"Sede"
-                ,"email":"iris.paiva@sicoobempresas.com.br"
+                ,"email":"iris.santos@sicoobempresas.com.br"
                },
                {"nome":"Esmelindo",
                 "sobrenome":"Carvalho",
@@ -96,7 +96,7 @@
                {"nome":"Carolina",
                 "sobrenome":"Souza",
                 "setor":"Comercial",
-                "ramal":"16",
+                "ramal":"----",
                 "posto":"Centro"
                 ,"email":"carolina.souza@sicoobempresas.com.br"
                },
@@ -167,8 +167,8 @@
                }
 
                ,
-               {"nome":"Sala de Reunião",
-                "sobrenome":"",
+               {"nome":"Reunião",
+                "sobrenome":"Américas",
                 "setor":"Comercial",
                 "ramal":"1668",
                 "posto":"Américas"
@@ -188,8 +188,8 @@
                 "posto":"Campo Grande"
                 ,"email":"rafaela.canella@sicoobempresas.com.br"
                },
-               {"nome":"Mesa de Reunião",
-                "sobrenome":"",
+               {"nome":"Reunião",
+                "sobrenome":"Campo Grande",
                 "setor":"Reunião",
                 "ramal":"1677",
                 "posto":"Campo Grande"
@@ -220,10 +220,18 @@
                {"nome":"Marcelo",
                 "sobrenome":"Castro",
                 "setor":"Financeiro",
-                "ramal":"----",
+                "ramal":"2263-7203",
                 "corporativo":"2263-7203",
                 "posto":"Centro",
                 "email":"marcelo.castro@sicoobempresas.com.br"
+               },
+               {"nome":"Marcelo",
+                "sobrenome":"Fetter",
+                "setor":"Comercial",
+                "ramal":"1665",
+                "corporativo":"",
+                "posto":"São Paulo",
+                "email":"marcelo.fetter@sicoobempresas.com.br"
                },
                {"nome":"Giselle",
                 "sobrenome":"Pontes",
@@ -350,7 +358,7 @@
                 "ramal":"1633",
                 "corporativo":"",
                 "posto":"Sede",
-                "email":"luciane.Carvalho@sicoobempresas.com.br"
+                "email":"luciane.souza@sicoobempresas.com.br"
                },
                {"nome":"Luiz",
                 "sobrenome":"Silva",
@@ -398,7 +406,7 @@
                 "ramal":"1695",
                 "corporativo":"",
                 "posto":"Sede",
-                "email":"ana.silva@sicoobempresas.com.br"
+                "email":"marcus.freitas@sicoobempresas.com.br"
                },
                {"nome":"Simone",
                 "sobrenome":"Pinto",
@@ -450,7 +458,7 @@
                },
                {"nome":"Eduardo",
                 "sobrenome":"Diniz",
-                "setor":"Diretoria",
+                "setor":"Presidência",
                 "ramal":"1606|1651",
                 "corporativo":"",
                 "posto":"Sede",
@@ -458,7 +466,7 @@
                },
                {"nome":"Felippe",
                 "sobrenome":"Alvarez",
-                "setor":"Diretoria",
+                "setor":"Jurídico",
                 "ramal":"1607",
                 "corporativo":"",
                 "posto":"Sede",
@@ -482,19 +490,19 @@
                },
                {"nome":"Gilson",
                 "sobrenome":"Prata",
-                "setor":"Financeiro",
+                "setor":"Superintendência",
                 "ramal":"1613",
                 "corporativo":"",
                 "posto":"Sede",
                 "email":"gilson.prata@sicoobempresas.com.br"
                },
                {"nome":"Vanessa",
-                "sobrenome":"Collye",
+                "sobrenome":"Collyer",
                 "setor":"Comercial",
                 "ramal":"1646",
                 "corporativo":"",
                 "posto":"Sede",
-                "email":"vanessa.collye@sicoobempresas.com.br"
+                "email":"vanessa.collyer@sicoobempresas.com.br"
                }
                ,             
                {"nome":"Ivan",
@@ -540,14 +548,14 @@
                {"nome":"Marcus",
                 "sobrenome":"Menezes",
                 "setor":"Planejamento",
-                "ramal":"1608",
+                "ramal":"1670",
                 "corporativo":"",
                 "posto":"São Paulo",
                 "email":"marcus.menezes@sicoobempresas.com.br"
                } ,
                {"nome":"Suzana",
                 "sobrenome":"Ribeiro",
-                "setor":"Secretária",
+                "setor":"Secretaria Executiva",
                 "ramal":"1602",
                 "corporativo":"98914-7369",
                 "posto":"Sede",
