@@ -1,5 +1,12 @@
 
 
+ var xmlhttp = new XMLHttpRequest();
+ xmlhttp.open("GET", 'http://meuip.com/api/meuip.php');
+ xmlhttp.send();
+ xmlhttp.onload = function(e) {
+   alert("Seu IP é: "+xmlhttp.response);
+ }
+
 
 searchbar = document.getElementById('btn-search')
 
@@ -15,7 +22,7 @@ $.getJSON("./data.json", function(data){
     myArray= sorted
 
    
-    console.log(myArray)
+    
     
 
     searchbar.addEventListener('keyup', (key)=>{
